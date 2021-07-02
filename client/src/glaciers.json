@@ -1,0 +1,591 @@
+{
+    "businesses": [
+        {
+            "id": "e_Zp3GSiZSxFwd4jozPKdA",
+            "alias": "glacier-bargello-bruxelles",
+            "name": "Glacier Bargello",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1H-zXRMeHCqRaAx2SxRsyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/glacier-bargello-bruxelles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 50.84991,
+                "longitude": 4.3661199
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Place de la Liberté 5",
+                "address2": "Vrijheidsplein 5",
+                "address3": null,
+                "city": "Brussels",
+                "zip_code": "1000",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Place de la Liberté 5",
+                    "Vrijheidsplein 5",
+                    "1000 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3227514410",
+            "display_phone": "+32 2 751 44 10",
+            "distance": 850.4064768498099
+        },
+        {
+            "id": "-lCM4gdp8VBsDZlS6b1vTQ",
+            "alias": "glacier-zizi-uccle",
+            "name": "Glacier Zizi",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZSpX8n_RgQhyijNLeXXDrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/glacier-zizi-uccle?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 50.81361,
+                "longitude": 4.34489
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Rue de la Mutualité 57A",
+                "address2": "Onderlinge Bijstandstraat 57A",
+                "address3": "",
+                "city": "Uccle",
+                "zip_code": "1180",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Rue de la Mutualité 57A",
+                    "Onderlinge Bijstandstraat 57A",
+                    "1180 Uccle",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3223447081",
+            "display_phone": "+32 2 344 70 81",
+            "distance": 5061.928386026668
+        },
+        {
+            "id": "BhNcsEIw0qkhUVbj9sFkZA",
+            "alias": "glacier-pascalino-jette",
+            "name": "Glacier Pascalino",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_sehf2VOVt65F3xy6kYzUg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/glacier-pascalino-jette?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "streetvendors",
+                    "title": "Street Vendors"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 50.8734893798828,
+                "longitude": 4.32953977584839
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Place Royale",
+                "address2": "camionnette garée devant le musée magritte",
+                "address3": "",
+                "city": "Jette",
+                "zip_code": "1090",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Place Royale",
+                    "camionnette garée devant le musée magritte",
+                    "1090 Jette",
+                    "Belgium"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1789.3623718642943
+        },
+        {
+            "id": "kIreewqxDfVXVqqkiU7jsQ",
+            "alias": "capoue-ixelles",
+            "name": "Capoue",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/STqg6sk1FQBvQJH48ni9xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/capoue-ixelles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 50.827647054671,
+                "longitude": 4.3707632268586
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Rue Lesbroussart 2",
+                "address2": "Lesbroussartstraat 2",
+                "address3": "",
+                "city": "Ixelles",
+                "zip_code": "1050",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Rue Lesbroussart 2",
+                    "Lesbroussartstraat 2",
+                    "1050 Ixelles",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3226495530",
+            "display_phone": "+32 2 649 55 30",
+            "distance": 3046.8110714033714
+        },
+        {
+            "id": "00pELJ6IaQMA_f5H4U1LsQ",
+            "alias": "frederic-blondeel-bruxelles-5",
+            "name": "Frederic Blondeel",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S5OmpO8pX9HUhwVh512UPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/frederic-blondeel-bruxelles-5?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "chocolate",
+                    "title": "Chocolatiers & Shops"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 50.851541,
+                "longitude": 4.347932
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Quai aux Briques 24",
+                "address2": "Baksteenkaai 24",
+                "address3": null,
+                "city": "Brussels",
+                "zip_code": "1000",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Quai aux Briques 24",
+                    "Baksteenkaai 24",
+                    "1000 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3225022131",
+            "display_phone": "+32 2 502 21 31",
+            "distance": 1957.454547871772
+        },
+        {
+            "id": "TMHtn-sF6LeUS9v-jEKBXg",
+            "alias": "lanni-giovanni-glacier-saint-gilles",
+            "name": "Lanni Giovanni Glacier",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zc6gd2iFLqWPfpvCnvLV_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lanni-giovanni-glacier-saint-gilles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "streetvendors",
+                    "title": "Street Vendors"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 50.82635,
+                "longitude": 4.3486
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "rue des Tamines 4",
+                "address2": "Taminesstraat 4",
+                "address3": "",
+                "city": "Saint-Gilles",
+                "zip_code": "1060",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "rue des Tamines 4",
+                    "Taminesstraat 4",
+                    "1060 Saint-Gilles",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3225379148",
+            "display_phone": "+32 2 537 91 48",
+            "distance": 3687.1695195329726
+        },
+        {
+            "id": "AHeEW85uRrjtTNVm3kzoSw",
+            "alias": "glaces-artisanales-bruxelles",
+            "name": "Glaces Artisanales",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jEKFVLZ8VmWyYIU6nQggGg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/glaces-artisanales-bruxelles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 50.8454658,
+                "longitude": 4.3571135
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Gare centrale",
+                "address2": "",
+                "address3": "",
+                "city": "Brussels",
+                "zip_code": "1000",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Gare centrale",
+                    "1000 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1652.5201525771815
+        },
+        {
+            "id": "2aG8VUp3ehV-93p2e_JQ4w",
+            "alias": "c-tof-bruxelles",
+            "name": "C-TOF",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hUNwLbJ4DslsYcS2s3SqlA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/c-tof-bruxelles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 50.85172,
+                "longitude": 4.354353
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Passage du Nord 25",
+                "address2": "Noorddoorgang 25",
+                "address3": "",
+                "city": "Brussels",
+                "zip_code": "1000",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Passage du Nord 25",
+                    "Noorddoorgang 25",
+                    "1000 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "+32477632913",
+            "display_phone": "+32 477 63 29 13",
+            "distance": 1512.6393157084601
+        },
+        {
+            "id": "d5F67tuT3l6J2l_zvMO0VA",
+            "alias": "il-monello-bruxelles",
+            "name": "Il Monello",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gIpYBLKdiqVbeLtwNOOepQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-monello-bruxelles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 50.8324585,
+                "longitude": 4.3565798
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Chaussée de Charleroi 31-33",
+                "address2": "Charleroise Steenweg 31-33",
+                "address3": "",
+                "city": "Brussels",
+                "zip_code": "1060",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Chaussée de Charleroi 31-33",
+                    "Charleroise Steenweg 31-33",
+                    "1060 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "+32484085657",
+            "display_phone": "+32 484 08 56 57",
+            "distance": 2826.4760667321375
+        },
+        {
+            "id": "ay_V9eQ661wBZnduGG7ycA",
+            "alias": "le-petit-nuage-etterbeek",
+            "name": "Le Petit Nuage",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z1mxxsoOPQgxyD-teQ898w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/le-petit-nuage-etterbeek?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 50.8397,
+                "longitude": 4.380593
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Parc Léopold",
+                "address2": "",
+                "address3": "",
+                "city": "Etterbeek",
+                "zip_code": "1040",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Parc Léopold",
+                    "1040 Etterbeek",
+                    "Belgium"
+                ]
+            },
+            "phone": "+32472836193",
+            "display_phone": "+32 472 83 61 93",
+            "distance": 1730.1478968175572
+        },
+        {
+            "id": "tQmUOdIJfUeTidWpSim0dg",
+            "alias": "vandenhende-etterbeek",
+            "name": "Vandenhende",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-ESxXkyUI96i9gBLDBkMsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/vandenhende-etterbeek?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "chocolate",
+                    "title": "Chocolatiers & Shops"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 50.8309565,
+                "longitude": 4.3890091
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Chaussée de Wavre 643",
+                "address2": "",
+                "address3": "",
+                "city": "Etterbeek",
+                "zip_code": "1040",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Chaussée de Wavre 643",
+                    "1040 Etterbeek",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3226446300",
+            "display_phone": "+32 2 644 63 00",
+            "distance": 2830.6381140631142
+        },
+        {
+            "id": "4tzt5NzHhJoyC6QAtZWpmg",
+            "alias": "cocozza-schaerbeek",
+            "name": "Cocozza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UD_CgzRNcvl3VDy3vZwPxA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cocozza-schaerbeek?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 50.86239,
+                "longitude": 4.38211
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Avenue des Azalées 8",
+                "address2": "",
+                "address3": "",
+                "city": "Schaerbeek",
+                "zip_code": "1030",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Avenue des Azalées 8",
+                    "1030 Schaerbeek",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3222413638",
+            "display_phone": "+32 2 241 36 38",
+            "distance": 959.0105429062908
+        },
+        {
+            "id": "-7C9JfPB9-q07ThWvXp5yw",
+            "alias": "nanouk-saint-gilles",
+            "name": "Nanouk",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VDEXNgLGDOtKBjbGFp80_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nanouk-saint-gilles?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 50.8305157,
+                "longitude": 4.3452086
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Parvis de Saint-Gilles",
+                "address2": "",
+                "address3": "",
+                "city": "Saint-Gilles",
+                "zip_code": "1060",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Parvis de Saint-Gilles",
+                    "1060 Saint-Gilles",
+                    "Belgium"
+                ]
+            },
+            "phone": "+32496579005",
+            "display_phone": "+32 496 57 90 05",
+            "distance": 3437.393360151281
+        },
+        {
+            "id": "UJ7xZD81kHou4DDpbtZTuw",
+            "alias": "australian-home-made-ice-cream-bruxelles-2",
+            "name": "Australian Home Made Ice Cream",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DwURxtXWXfB5-dio44qwow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/australian-home-made-ice-cream-bruxelles-2?adjust_creative=RRCBmVINsNb8NyA5PTyVNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RRCBmVINsNb8NyA5PTyVNA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 50.846746,
+                "longitude": 4.3539817
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Rue de la Colline 2",
+                "address2": "Heuvelstraat 2",
+                "address3": "",
+                "city": "Brussels",
+                "zip_code": "1000",
+                "country": "BE",
+                "state": "BRU",
+                "display_address": [
+                    "Rue de la Colline 2",
+                    "Heuvelstraat 2",
+                    "1000 Brussels",
+                    "Belgium"
+                ]
+            },
+            "phone": "+3250427788",
+            "display_phone": "+32 50 42 77 88",
+            "distance": 1749.960924308259
+        }
+    ],
+    "total": 11,
+    "region": {
+        "center": {
+            "longitude": 4.37530517578125,
+            "latitude": 50.854897195174054
+        }
+    }
+}

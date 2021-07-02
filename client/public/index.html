@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root1"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <header>
+      <div class="bg1">
+          <img src="images/bg-1.png" alt="">
+  
+      </div>
+      <div class="bg2">
+          <img src="images/bg-2.png" alt="">
+  
+      </div>
+  
+  
+      <div class="wrapper"></div>
+      <div id="nav" class="nav">
+          <div class="row">
+              <a href="" class="logo-a">
+                  <img src="images/icon-logo.png" class='logo-icon' alt="">
+                  <span class="logo">sor<span class='be'>be</span>t</span>
+              </a>
+              <div class="menu">
+                  <ul id="nav-menu">
+                      <li class=>
+                          <a href="#discover" class="discover ">Discover</a>
+  
+                      </li>
+                      <li>
+                          <a href="#anchor-map" class="map">Map</a>
+  
+                      </li>
+                      <li>
+                          <a href="#favorites" class="favorites">Favorites</a>
+  
+                      </li>
+  
+  
+                  </ul>
+              </div>
+          </div>
+  
+      </div>
+      <div id="header" class="header-container">
+          <div class="left-img">
+              <img src="images/ice-cream1.png" alt="">
+          </div>
+          
+          <div class="right-img">
+              <img src="images/ice-cream2.png" alt="">
+          </div>
+      </div>
+   
+      <div class="middle">
+          <div class="title">
+              <h1>Find your perfect place to buy your favorite ice-cream in Brussels!</h1>
+          </div>
+          <!-- <div class="search-bar">
+  
+          </div>
+          <div class="search-btn">
+              <span class="search-btn-text">Search</span>
+  
+          </div> -->
+          <div class="search-bar">
+              <form class="formulario" action="">
+                <input type="text" class="search-bar" id="tareaInput" placeholder="Write here to search">
+              </div>
+  
+              <div class="search-btn-div">
+                <input type="button" onclick="" class="search-btn" id="searchbutton" value="Search" >
+              </div>
+         
+          
+  
+      </div>    
+  </header>
+  
+  <!-- REACT MAP -->
+  <div id="react-map"></div>
+  
+  <!-- SEARCH RESULT -->
+  <div id="search-results">
+      <div class="search-cont"></div>
+  </div>
+  
+  <!-- OWL SLIDER -->
+   
+  <div id= "discover" class="slider">   
+     <div class="redline"></div>
+      <h2>Our selection</h2>                       
+      <div class="owl-carousel owl-theme">                        
+          <div class="item"><img src="image/zizi.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Glacier Zizi<br>
+                     <small>Uccle</small>
+                  </p>
+                 
+              </div>
+          </div>
+          <div class="item"><img src="image/deb.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Maison Debailleul<br>
+                      <small>Centre</small>
+                  </p>
+                 
+              </div>
+          </div>
+          <div class="item"><img src="image/gaston.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Gaston<br>
+                       <small>Centre</small>
+                  </p>
+                 
+              </div>
+          </div>
+          <div class="item"><img src="image/fram.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Le Framboisier Doré<br>
+                       <small>Ixelles</small>
+                  </p>
+                 
+              </div>
+          </div>
+          <div class="item"><img src="image/pac.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Pacitti Al<br>
+                  <small>Uccle</small>
+                  </p>
+                 
+              </div>
+          </div>
+          <div class="item"><img src="image/capoue.jpg" alt="">
+              <div class="detail">
+                  <p>
+                      Glacier Capoue<br>
+                       <small>Several places</small>
+                  </p>
+                 
+              </div>
+          </div>
+      </div>
+  
+  
+  </div>   
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
+      <script>$('.owl-carousel').owlCarousel({
+          loop:true,
+          margin:10,
+          nav:true,
+          responsive:{
+              0:{
+                  items:1
+              },
+              600:{
+                  items:3
+              },
+              1000:{
+                  items:5
+              }
+          }
+      })</script>
+  
+  
+  
+  
+  <!-- SEPARATOR -->
+  <div class="sep">
+  <div class="sepa2"><img src="images/ice-cream3.png" alt=""></div>
+  <div class="sepa1"><img src="images/bg-3.png" alt=""></div>
+  </div>
+  
+  <!-- MAP -->
+  
+  <div id="anchor-map"class="map-section">
+  <img src="images/bg-4.png" alt="">
+  </div>
+  <div class="titlemap">
+      <div class="redline"></div>
+      <div class="t"><h2>Map</h2></div>
+  </div>
+  <div id="map-section">
+      
+      <div class="map-text"> <h3>Find the nearest ice-cream parlour to you!</h3> </div>
+  
+      <div id='root' style='width: 550px; height: 500px;'></div>
+  
+  <script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2FtaWtvIiwiYSI6ImNrcTBva3B4MTA1d3oycHA4Ymo1ZHdjM3cifQ.dPjfSTXE0RfpgppnCNkbhw';
+  var map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/kamiko/ckq0pnb8a1e4s17s2nykqwjzh'
+  
+  
+  });
+  
+  </script>
+  
+       
+  </div>
+  
+  
+  <div class="footer">
+      <div class="bg-footer"><img src="images/footer.png" alt=""></div>
+      <div class="footer-menu">
+          <div class="logo-f"><a href="#nav" class="logo-a">
+              <img src="images/icon-logo.png" class='logo-icon' alt="">
+              <span class="logo">sor<span class='be'>be</span>t</span>
+          </a></div>
+          <div class="contact"><h4>Contact Us</div>
+          <div class="links">
+              <span style="font-size: 22px; color: #eb5499;">
+              <i class="fab fa-instagram"></i>
+              <i class="fab fa-twitter"></i>
+              <i class="fab fa-facebook-f"></i>
+          </span>
+          </div>
+      </div>
+  </div>
+  <!-- end of wrapper  -->
+  </div>
+  
+  
+  
+  
+    <script src="scripts/index.js"></script>
+  
+  
+  </body>
+</html>
